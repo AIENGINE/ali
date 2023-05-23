@@ -108,14 +108,11 @@ B.E. Electrical Engineer in Signal Processing with B.E. final project in control
 **Interests and Hobbys:**
 
 I have yet to figure out how to keep technology out of my personal life. Anyway, I follow cppcon regularly and some of my
-
-favorite speaker's work inspires me a lot. Some of the veterans in C++: Herb Sutter, Micheal Wong, Fedor Pikus,
-
+favorite speaker's work inspires me a lot. Some of the veterans in C++ community which I follow are: Herb Sutter, Micheal Wong, Fedor Pikus,
 Jason Turner, Andrei Alexandrescu. I like to read books, articles on programming, ml in general and history. Rest of my time outside
-
 of work is consumed by my two lovely daughters currently under the age of 5.
 
-**Some of the Relevant reference books that I have:**
+**Some of the Relevant reference books :**
 
 - C++ Templates: The Complete Guide (David Vandevoorde, Nicolai M. Josuttis, Douglas Gregor)
 - Professional C++ (Marc Gergoire)
