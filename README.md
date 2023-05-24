@@ -17,8 +17,7 @@ Skills and Technologies
 | OS | Linux: used in projects from OEM autonomous driving platform to developing SIL pipelines for TIER-1 and OEM. QNX: Troubleshooted and integrated client applications on performance core on middleware abstractions. |
 | Build Systems | Cmake, Bazel |
 | Sensor Fusion | Udacity Sensor fusion engineer: Developed required mathematical model to build sensor fusion system for autonomous driving feature in C++. Covers techniques such as: UKF, EKF, Bayesian statistics, and sensors such as: Lidar, Radar and Camera. |
-| Computer Vision | Udacity Computer vision engineer: Developed ML/AI algorithms to build autonomous systems such as SLAM, CNN for object tracking and localization.
- |
+| Computer Vision | Udacity Computer vision engineer: Developed ML/AI algorithms to build autonomous systems such as SLAM, CNN for object tracking and localization.|
 | DevOps Tools | Developed open and closed loop autonomous driving pipeline with Apache Airflow, Zuul and Ansible, Dockers, and Kubernetes. |
 | Debuggers | Automated HIL testing process using Trace32. Debugged and troubleshoot integration issues with GDB on QNX and Linux. |
 | Profiling Tooling | Used Wireshark, Tcpdump, LTTng together with lua and python for post processing and troubleshooting various network and OS scheduling problems. |
