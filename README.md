@@ -4,11 +4,9 @@ Contact: [alidanish@outlook.de](mailto:alidanish@outlook.de) Github Projects:
 
 Languages: English (fluent), German (Basic), Hindi/Urdu (Fluent)
 
-**Career Profile:**
+**Career Profile:** Throughout my **5\+**  years of professional career and  **3**  years of a student research assistant, I had the opportunity to develop a unique set of skills that has well-grounded my understanding of software development from prototypical to pre-series development. I have supplemented my software-development skills with sound conceptual and practical knowledge that I obtained from various short courses and degrees, such as Professional Software Architecture CSPA, Udacity Sensor Fusion, and Udacity Computer Vision. Combining experience in software development, integration in an industry environment, and a solid understanding of mathematical and conceptual foundation, I am offering potential employers the freedom to solve wide range of problems in their software stack.
 
-Throughout my **5\+**  years of professional career and  **3**  years of a student research assistant, I had the opportunity to develop a unique set of skills that has well-grounded my understanding of software development from prototypical to pre-series development. I have supplemented my software-development skills with sound conceptual and practical knowledge that I obtained from various short courses and degrees, such as Professional Software Architecture CSPA, Udacity Sensor Fusion, and Udacity Computer Vision. Combining experience in software development, integration in an industry environment, and a solid understanding of mathematical and conceptual foundation, I am offering potential employers the freedom to solve wide range of problems in their software stack.
-
-Skills and Technologies
+**Skills and Technologies**
 
 | Software Design and Architecture for requirements elicitation and analysis | Certified Professional Software Architecture (CSPA), Handled dependencies issues with right amount of coupling and de-coupling through abstractions i.e., software design patterns, and domain driven designs. Applied clean code practices such as TDD, BDD, SOLID principles. |
 | --- | --- |
@@ -17,10 +15,13 @@ Skills and Technologies
 | OS | Linux: used in projects from OEM autonomous driving platform to developing SIL pipelines for TIER-1 and OEM. QNX: Troubleshooted and integrated client applications on performance core on middleware abstractions. |
 | Build Systems | Cmake, Bazel |
 | Sensor Fusion | Udacity Sensor fusion engineer: Developed required mathematical model to build sensor fusion system for autonomous driving feature in C++. Covers techniques such as: UKF, EKF, Bayesian statistics, and sensors such as: Lidar, Radar and Camera. |
-| Computer Vision | Udacity Computer vision engineer: Developed ML/AI algorithms to build autonomous systems such as SLAM, CNN for object tracking and localization.|
+| Computer Vision | Udacity Computer vision engineer: Developed ML/AI algorithms to build autonomous systems such as SLAM, CNN for object tracking and localization. |
 | DevOps Tools | Developed open and closed loop autonomous driving pipeline with Apache Airflow, Zuul and Ansible, Dockers, and Kubernetes. |
 | Debuggers | Automated HIL testing process using Trace32. Debugged and troubleshoot integration issues with GDB on QNX and Linux. |
-| Profiling Tooling | Used Wireshark, Tcpdump, LTTng together with lua and python for post processing and troubleshooting various network and OS scheduling problems. |
+| Profiling Tooling | Used Wireshark, Tcpdump, LTTng together with lua and python scripts for post processing and troubleshooting various network and OS scheduling problems. |
+| SW Dev Process and workflow | Worked in Scrum-LeSS team (Certified LeSS practitioner) and Agile SAFe teams as well. |
+
+**Experience and Responsibilities:**
 
 _Software Engineer at TTTech Auto Germany GmbH (2018 - Till date):_
 
@@ -57,7 +58,7 @@ _Software Engineer at TTTech Auto Germany GmbH (2018 - Till date):_
 - Played a key role in developing and designing lane fusion KPIs for highway pilot.
 - Actively supported the team to design and implement ETL microservice with data health checks and KPIs to clean the data to build groundtruth for simulation and open loop visualization.
 - Developed and integrated acceptance driven pipeline with components integration test and unit-tests.
-- Actively collaborated to develop switch lane-fusion estimator EKF to UKF which improved the lane-fusion estimation.
+- Actively collaborated to develop switch lane-fusion estimator EKF to UKF which improved the keep-lane feature and lane estimation.
 - Refactored various sensor and component nodes such as GPS/RTK, Camera on BMW specific middleware wrapper built on ROS using TDD and Acceptance test in accordance with Autosar-C++14 compliance.
 - Due to effective communication and respective domain knowledge, I co-shared the responsibility to represent team in regular meetings with clients where I have done negotiations, escalations and reporting.
 
@@ -106,12 +107,9 @@ B.E. Electrical Engineer in Signal Processing with B.E. final project in control
 
 **Interests and Hobbys:**
 
-I have yet to figure out how to keep technology out of my personal life. Anyway, I follow cppcon regularly and some of my
-favorite speaker's work inspires me a lot. Some of the veterans in C++ community which I follow are: Herb Sutter, Micheal Wong, Fedor Pikus,
-Jason Turner, Andrei Alexandrescu. I like to read books, articles on programming, ml in general and history. Rest of my time outside
-of work is consumed by my two lovely daughters currently under the age of 5.
+I have yet to figure out how to keep technology out of my personal life. Anyway, I follow cppcon regularly and some of my favorite speaker's work inspires me a lot. Some of the veterans in C++ which I follow: Herb Sutter, Micheal Wong, Fedor Pikus, Jason Turner, Andrei Alexandrescu. I like to read books, articles on programming, ml in general and history. Rest of my time outside of work is consumed by my two lovely daughters currently under the age of 5.
 
-**Some of the Relevant reference books :**
+**Some of the Relevant reference books in my shelf:**
 
 - C++ Templates: The Complete Guide (David Vandevoorde, Nicolai M. Josuttis, Douglas Gregor)
 - Professional C++ (Marc Gergoire)
