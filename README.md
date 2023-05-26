@@ -8,7 +8,7 @@ Languages: English (fluent), German (Basic), Hindi/Urdu (Fluent)
 
 **Skills and Technologies**
 
-| Software Design and Architecture for requirements elicitation and analysis | Certified Professional Software Architecture (CSPA), Handled dependencies issues with right amount of coupling and de-coupling through abstractions i.e., software design patterns, and domain driven designs. Applied clean code practices such as TDD, BDD, SOLID principles. |
+| Software Design and Architecture for requirements elicitation and analysis | Certified Professional Software Architecture (CSPA), Handled dependencies issues with right amount of cohesion and de-coupling through abstractions i.e., software design patterns, and domain driven designs. Applied clean code practices such as TDD, BDD, SOLID principles. |
 | --- | --- |
 | Middleware | Developed, refactored applications on ROS and ROS2 middleware. Developed data services over Cyclone DDS using middleware core functions. Integrated, developed and troubleshoot client application on TTTech real-time middleware with interface modeling using classic and adaptive autosar. |
 | Programming languages | C++11, 14, 17: Developed runtime and compile time patterns to generalize interface usage and increase testability. Python: Developed and Designed code generators, automated various ETL pipeline using Pandas, and automated various build processes within large code base with several million SLOC. Pytorch and Keras to build NN models. Bash: Automated various processes in SIL and HIL CI pipelines in Linux OS environment. |
