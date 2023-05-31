@@ -1,8 +1,8 @@
-Muhammad-Ali Danish (Msc. EE Signal and Communication System) <img img align="right" src="./docs/cv_pic_ali_1.jpg"  width="20%" height="20%">
+Muhammad-Ali Danish (Msc. EE Signal and Communication System) <img img align="right" src="./docs/cv_pic_ali_1.jpg"  width="30%" height="20%">
 
 Contact: [alidanish@outlook.de](mailto:alidanish@outlook.de) City: Munich, Germany.
 
-Github Projects:
+Github Projects: Sensor Fusion https://github.com/AIENGINE/SFND, Computer Vision  
 
 Languages: English (fluent), German (Basic), Hindi/Urdu (Fluent)
 
