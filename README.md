@@ -3,7 +3,6 @@ CV:Muhammad-Ali Danish (Msc. EE Signal and Communication System) <img img align=
 Online CV: [https://aiengine.github.io/ali/](https://aiengine.github.io/ali/) , Contact: [alidanish@outlook.de](mailto:alidanish@outlook.de)
 City: 80995 Munich, Germany.
 Capstone Projects: Sensor fusion [https://github.com/AIENGINE/SFND](https://github.com/AIENGINE/SFND),
-
 Computer Vision [https://github.com/AIENGINE/CVND](https://github.com/AIENGINE/CVND)
 
 Languages: English (fluent), German (Basic), Hindi/Urdu (Fluent)
