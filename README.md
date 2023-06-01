@@ -1,68 +1,72 @@
-Muhammad-Ali Danish (Msc. EE Signal and Communication System) <img img align="right" src="./docs/cv_pic_ali_1.jpg"  width="20%" height="20%">
+CV: Muhammad-Ali Danish (Msc. EE Signal and Communication System) Muhammad-Ali Danish (Msc. EE Signal and Communication System) <img img align="right" src="./docs/cv_pic_ali_1.jpg"  width="20%" height="20%">
 
-Contact: [alidanish@outlook.de](mailto:alidanish@outlook.de) City: Munich, Germany.
+Online CV: [https://aiengine.github.io/ali/](https://aiengine.github.io/ali/) , Contact: [alidanish@outlook.de](mailto:alidanish@outlook.de)
 
-Github Projects:
+City: Munich, Germany. PH: +491739966139
+
+Capstone Projects: Sensor fusion [https://github.com/AIENGINE/SFND](https://github.com/AIENGINE/SFND),
+
+Computer Vision [https://github.com/AIENGINE/CVND](https://github.com/AIENGINE/CVND)
 
 Languages: English (fluent), German (Basic), Hindi/Urdu (Fluent)
 
-**Career Profile:** Throughout my **5\+**  years of professional career and  **3**  years of a student research assistant, I had the opportunity to develop a unique set of skills that has well-grounded my understanding of software development from prototypical to pre-series development. I have supplemented my software-development skills with sound conceptual and practical knowledge that I obtained from various short courses and degrees, such as Certified Professional for Software Architecture(CSPA-F), Udacity Sensor Fusion, and Udacity Computer Vision. Combining experience in software development, integration in an industry environment, and a solid understanding of mathematical and conceptual foundation, I am offering potential employers the freedom to solve wide range of problems in their software stack.
+**Career Profile**: Throughout my 5+ years of professional career and 3 years of a student research assistant, I had the opportunity to develop a unique set of skills that has well-grounded my understanding of software development from prototypical to pre-series development. I have supplemented my software-development skills with sound conceptual and practical knowledge that I obtained from various short courses and degrees, such as Certified Professional for Software Architecture (CSPA-F), Udacity Sensor Fusion, and Udacity Computer Vision. Combining experience in software development, integration in an industry environment, and a solid understanding of mathematical and conceptual foundations, I am offering potential employers the freedom to solve wide range of problems in their software stack.
 
 **Skills and Technologies**
 
-| Software Design and Architecture for requirements elicitation and analysis | Certified Professional Software Architecture (CSPA-F): Handled dependencies issues with right amount of cohesion and de-coupling through abstractions i.e., software design patterns based on TDD and SOLID principles. Developed Software architecture through DDD principles. |
+| Software Design and Architecture for requirements elicitation and analysis | Certified Professional for Software Architecture (CSPA-F): Handled dependencies issues with right amount of cohesion and de-coupling through abstractions i.e., software design patterns based on TDD and SOLID principles. Developed Software architecture through Domain Driven Designs principles. |
 | --- | --- |
-| Middleware | Developed, refactored applications on ROS middleware using client(BMW) middleware wrapper. Developed data services over Cyclone DDS using middleware provided APIs and QoS mechanisms. Integrated, developed and troubleshoot client applications on TTTech real-time middleware with interface model using classic and adaptive autosar. |
-| Programming languages | C++11, 14, 17: Developed code using runtime and compile time patterns for appropriate interface usage and increase testability. Python: Developed and Designed code generators, automated various processes in ETL pipeline using Pandas, and automated various build processes within large code base that has several million SLOC. Pytorch to build Deep Learning models. Scikitlearn and Shapely for data fitting and analysis. Bash: Automated various processes in SIL and HIL CI pipelines in Linux OS environment. |
-| OS | Linux: used in projects from developing software on client's autonomous driving platform to SIL pipelines for TIER-1 and OEM. QNX: Troubleshooted and integrated client applications on performance core with TTTech middleware abstractions. |
+| Middleware | Developed, refactored applications on ROS middleware using client's (BMW) middleware wrapper. Developed capture and replay tools over Cyclone DDS using middleware provided APIs and QoS mechanisms. Integrated, developed, and troubleshoot client applications on TTTech real-time middleware with interface model using classic and adaptive autosar. |
+| Programming languages | C++11, 14, 17: Developed code using runtime and compile time patterns based on SOLID principles to increase extensibility. Developed SW in C/C++ using TDD. Python: Developed code generators, automated various processes in ETL pipeline using Pandas, and automated various build processes within large code base that has several million SLOC. Pytorch to build Deep Learning models. Scikitlearn and Shapely for data fitting and analysis. Bash: Automated various processes in SIL and HIL CI pipelines in Linux OS environment. |
+| OS | Linux: used in projects from developing software on client's autonomous driving platform to SIL pipelines for TIER-1 and OEM. QNX: Troubleshoot and integrated client applications on performance core with TTTech middleware abstractions. |
 | Build Systems | Cmake, Bazel for building static, shared libraries and artifacts. |
 | Sensor Fusion | Udacity Sensor fusion engineer: Developed sensor fusion system for Mulit-Object tracking and Time-To-Collision (TTC) metric/System-Indicator for analysis of autonomous driving safety features. The capstone projects cover state-of-the-art mathematical and image processing techniques to build estimators such as Yolo, UKF, EKF, Bayesian statistics, and sensors such as Lidar, Radar, and Camera. |
-| Computer Vision | Udacity Computer vision engineer: Developed object classification and regression models using supervised learning AI/ML methods. Developed capstone project includes: Facial Keypoints detection using CNN, Graph-SLAM algorithm for Localization and Mapping robot environment. |
+| Computer Vision | Udacity Computer vision engineer: Developed object classification and regression models using supervised learning AI/ML methods. Developed capstone project includes Facial Keypoints detection using CNN, Graph-SLAM algorithm for Localization and Mapping robot environment. |
 | DevOps Tools | Developed/Integrated open and closed loop (simulator) for lane-fusion component pipeline with dockers and Ansible playbooks on managed k8s. The PoC was presented using Apache Airflow. |
 | Debuggers | Automated HIL testing process using Trace32. Debugged and troubleshoot integration issues with GDB/eclipse-plugin on QNX and Linux. |
-| Profiling Tooling | Used Wireshark, Tcpdump, LTTng together with python scripts for post processing and troubleshooting various network, syscalls (e.g. UDP/IP multicast) and OS scheduling problems. |
-| SW Process and workflow | Worked in Scrum-LeSS team (Certified LeSS practitioner) and Agile SAFe teams as well. |
+| Profiling Tooling | Used Wireshark, Tcpdump, LTTng together with python scripts for post processing and troubleshooting various network, syscalls (e.g., UDP/IP multicast) and OS scheduling problems. |
+| SW Dev Process and workflow | Worked in Scrum-LeSS team and Agile SAFe teams as well. |
 
 **Experience and Responsibilities:**
 
-_Software Engineer at TTTech Auto Germany GmbH (2018 - Till date):_
+_Software Engineer at TTTech Auto Germany GmbH (2018 -_ _2023__):_
 
 **In Innovation Dept:**
 
 - Shared responsibilities in Developing and Designing DDS middleware specific Capture and Replay software to work with TTTech specific middleware using C++ 17 and Python.
 - Establishing common solution grounds with teams in various parts of Europe to reach common library design, Interface, and performance goals.
 - Developed async multi-threaded and multi-process pools to batch process data for database insertion.
-- Actively synchronize with PO and Manager to cut-off features according to the timeline and negotiate key features to bring value to the product.
-- Actively developing PoC with a colleague in pair programming.
-- Actively supporting and advising chief architect on requirements elicitation and analysis.
+- Synchronized with PO and Manager to cut-off features according to the timeline and negotiate key features to bring value to the product.
+- Co-developed PoC with a colleague in pair programming.
+- Actively supported and advised chief architect on requirements elicitation and analysis.
 
 **In Product Integration with Audi as client:**
 
-- Developed a unique PoC in close co-ordination with Tier-1 supplier to measure system startup time till bootloader with HW debugger on a B-sample.
-- Developed a generic wrapper in C++ to test all client model data structures in CI pipeline which helped in reducing client model Integration issues.
-- Actively troubleshooting TTTech middleware integration issues with client and Tier-1 Suppliers in using TTTech SIL and HIL, which involves various network protocol analyzers and LinuxOS tracing/performance on a typical inter/intra host configuration.
+- Developed a unique PoC in close co-ordination with Tier-1 to measure system startup time till bootloader with HW debugger on a B-sample.
+- Developed a generic C++ wrapper to test client's model data structures in CI pipeline which helped in reducing client model Integration issues.
+- Actively troubleshooting TTTech middleware integration issues with client and Tier-1 Suppliers in using TTTech SIL and HIL, which involves various network protocol analyzers and LinuxOS tracing/performance utils on a inter/intra host configuration.
 - Developed various integration test scenarios for client components on ADTF and containerized solution delivery.
-- Actively supported in designing a practical framework to implement TDD and BDD design patterns as part of internal software architecture community.
-- Actively collaborated to develop, refactor, and improve TTTech data services toolchain.
-- Supported architects with requirements analysis and elicitation and then software requirements break down with clients on classic to adaptive autosar interface according to ASPICE model and ISO26262 functional safety.
+- Actively supported in designing a practical framework to implement TDD and BDD designs as part of internal software architecture community.
+- Developed, refactored, and improved TTTech data services tool like capture and replay.
+- Supported architects with requirements analysis and elicitation and then software requirements break down to support client's system model from adaptive to classic autosar interface according to ASPICE model and ISO26262 functional safety.
 
 **In Product Integration with HKMC as client:**
 
 - Co-developed a code generation pipeline for the entire EDR/DSSAD project in accordance with MISRA C compliance.
 - Implemented common design patterns and LRU cache that increased the model parsing performance by 10-fold.
-- Actively supported client and team with requirement analysis and software requirement break down creating architecture.
+- Actively supported client and team with requirement analysis and software requirements break down for creating architecture.
 
 **In Customer Program with BMW as client:**
 
 - Co-lead the team to become the leading cross-functional team in the lane fusion area in defining lane fusion ground-truth, the GT is named after the team's name.
-- Actively supported the team inbuilding the reference CI-pipeline for the BWM autonomous driving project and achieved both stable open and close loop pipeline (with offline data and with driving simulator).
-- Played a key role in developing and designing lane fusion KPIs pipeline for highway pilot.
-- Actively supported the team to design and implement ETL microservice with data health checks and KPIs to clean the drive data.
-- Co-developed lane-fusion groundtruth using various data fitting algorithms for simulation and open loop visualization in Rviz.
-- Developed and integrated acceptance driven pipeline with component integration tests and unit-tests.
-- Actively collaborated to develop switch lane-fusion estimator from EKF to UKF which improved the keep-lane feature estimation.
+- Assisted the team inbuilding the reference CI-pipeline for the BWM autonomous driving project and achieved both stable open and close loop pipeline (with offline data and with driving simulator).
+- Co-developed and designed lane fusion KPIs pipeline for keep-lane feature in highway-pilot.
+- Actively coordinated with the team to design and implement ETL microservice with data health checks and KPIs to clean the drive data.
+- Co-developed lane-fusion ground-truth using various data fitting algorithms for simulation and open loop visualization in Rviz.
+- Developed and integrated acceptance test driven pipeline for keep-lane feature and its simulation.
+- Coordinated with the team to refactor the lane-fusion estimator from EKF to UKF which improved the keep-lane feature estimation.
 - Refactored various sensor and component nodes such as GPS/RTK, Camera on client specific middleware wrapper built on ROS using TDD and Acceptance test in accordance with Autosar-C++14 compliance.
-- Due to effective communication and respective domain knowledge, I co-shared the responsibility to represent team in regular meetings with client where I have done negotiations, escalations and reporting.
+- Due to effective communication and respective domain knowledge, I co-shared the responsibility to represent team in regular meetings with client where I have done negotiations, escalations, and reporting.
 
 _Internship and Master-thesis, IAV Braunschweig (2016-2017):_
 
@@ -107,10 +111,11 @@ B.E. Electrical Engineer in Signal Processing with B.E. final project in control
 - Vector DaVinci for component modeling and code generation
 - AgileSAFe
 - TDD and Clean code.
+- Intel OneAPI webinars to use Sycl programming model.
 
 **Interests and Hobbys:**
 
-I have yet to figure out how to keep technology out of my personal life. Anyway, I follow cppcon regularly and some of my favorite speaker's work inspires me a lot. Some of the veterans in C++ which I follow: Herb Sutter, Micheal Wong, Fedor Pikus, Jason Turner, Andrei Alexandrescu. I like to read books, articles on programming, ml in general and history. Rest of my time outside of work is consumed by my two lovely daughters currently under the age of 5.
+I have yet to figure out how to keep technology out of my personal life. I follow cppcon regularly and some of my favorite speaker's work inspires me a lot. Some of the veterans in C++ which I follow: Herb Sutter, Micheal Wong, Fedor Pikus, Jason Turner, Andrei Alexandrescu. I like to read books, articles and webinars on the latest programming models and ML/AI in general. In my spare time I watch documentaries and listen to podcasts on history, science, and politics. The rest of my time outside of work is consumed by my two lovely daughters currently under the age of 5 and doing fitness training.
 
 **Some of the Relevant reference books in my shelf:**
 
