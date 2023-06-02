@@ -7,11 +7,11 @@ Computer Vision [https://github.com/AIENGINE/CVND](https://github.com/AIENGINE/C
 
 Languages: English (fluent), German (Basic), Hindi/Urdu (Fluent)
 
-**Career Profile**: Throughout my 5+ years of professional career and 3 years of a student research assistant, I had the opportunity to develop a unique set of skills that has well-grounded my understanding of software development from prototypical to pre-series development. I have supplemented my software-development skills with sound conceptual and practical knowledge that I obtained from various short courses and degrees, such as Certified Professional for Software Architecture (CSPA-F), Udacity Sensor Fusion, and Udacity Computer Vision. Combining experience in software development, integration in an industry environment, and a solid understanding of mathematical and conceptual foundations, I am offering potential employers the freedom to solve wide range of problems in their software stack.
+**Career Profile**: Throughout my 5+ years of professional career and 3 years of a student research assistant, I had the opportunity to develop a unique set of skills that has well-grounded my understanding of software development from prototypical to pre-series development. I have supplemented my software-development skills with sound conceptual and practical knowledge that I obtained from various short courses and degrees, such as Certified Professional for Software Architecture (CPSA-F), Udacity Sensor Fusion, and Udacity Computer Vision. Combining experience in software development, integration in an industry environment, and a solid understanding of mathematical and conceptual foundations, I am offering potential employers the freedom to solve wide range of problems in their software stack.
 
 **Skills and Technologies**
 
-| Software Design and Architecture for requirements elicitation and analysis | Certified Professional for Software Architecture (CSPA-F): Handled dependencies issues with right amount of cohesion and de-coupling through abstractions i.e., software design patterns based on TDD and SOLID principles. Developed Software architecture through Domain Driven Designs principles. |
+| Software Design and Architecture for requirements elicitation and analysis | Certified Professional for Software Architecture (CPSA-F): Handled dependencies issues with right amount of cohesion and de-coupling through abstractions i.e., software design patterns based on TDD and SOLID principles. Developed Software architecture through Domain Driven Designs principles. |
 | --- | --- |
 | Middleware | Developed, refactored applications on ROS middleware using client's (BMW) middleware wrapper. Developed capture and replay tools over Cyclone DDS using middleware provided APIs and QoS mechanisms. Integrated, developed, and troubleshoot client applications on TTTech real-time middleware with interface model using classic and adaptive autosar. |
 | Programming languages | C++11, 14, 17: Developed code using runtime and compile time patterns based on SOLID principles to increase extensibility. Developed SW in C/C++ using TDD. Python: Developed code generators, automated various processes in ETL pipeline using Pandas, and automated various build processes within large code base that has several million SLOC. Pytorch to build Deep Learning models. Scikitlearn and Shapely for data fitting and analysis. Bash: Automated various processes in SIL and HIL CI pipelines in Linux OS environment. |
@@ -26,7 +26,7 @@ Languages: English (fluent), German (Basic), Hindi/Urdu (Fluent)
 
 **Experience and Responsibilities:**
 
-_Software Engineer at TTTech Auto Germany GmbH (2018 -_ _2023__):_
+Software Engineer at TTTech Auto Germany GmbH (2018-2023):
 
 **In Innovation Dept:**
 
@@ -65,7 +65,7 @@ _Software Engineer at TTTech Auto Germany GmbH (2018 -_ _2023__):_
 - Refactored various sensor and component nodes such as GPS/RTK, Camera on client specific middleware wrapper built on ROS using TDD and Acceptance test in accordance with Autosar-C++14 compliance.
 - Due to effective communication and respective domain knowledge, I co-shared the responsibility to represent team in regular meetings with client where I have done negotiations, escalations, and reporting.
 
-_Internship and Master-thesis, IAV Braunschweig (2016-2017):_
+Internship and Master-thesis, IAV Braunschweig (2016-2017):
 
 - Development of Unmanned Aerial System for Managing Swarm in Civilian applications (Thesis-Grade 1.5).
 - Developed a Swarm simulation for UAVs solving a geometrical path problem, using C++11 and Python
@@ -80,7 +80,7 @@ _Student Research Assistant, Chair of Computer Engineering, TU-Chemnitz (2015):_
 - Developed an electronic board for solving 360 obstacle ranging system with MAXSonar-EZ0.
 - Profiled the ranging solution.
 
-_Student Research Assistant, Chair of Circuit and Systems, TU-Chemnitz (2013-2015):_
+Student Research Assistant, Chair of Circuit and Systems, TU-Chemnitz (2013-2015):
 
 - Designing and Development of automated Penetration testing and reporting framework for Intelligent Power Distributed Units (iPDU as embedded SBCs).
 -  Developing a framework with Python and Bash for automated pentesting of iPDU i.e., Network parameters from L2 (ARP-Attacks) to Application L7(SNMP, SMTP, HTTP) on Kali linux.
@@ -128,3 +128,5 @@ I have yet to figure out how to keep technology out of my personal life. I follo
 - Learning OpenCV 3: Computer Vision in C++ with the OpenCV Library (Adrian Kaehler, Gary Bradski)
 - Deep Learning with Python (by Francois Chollet)
 - Machine Learning with PyTorch and Scikit-Learn (Sebastian Raschka, Yuxi Liu, Vahid Mirjalili , Dmytro Dzhulgakov)
+- Algorithms in C++ (by Robert Sedgewick)
+- Computer vision algorithms and applications (by Richard Szeliski)
