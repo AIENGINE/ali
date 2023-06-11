@@ -2,8 +2,10 @@ CV:Muhammad-Ali Danish (Msc. EE Signal and Communication System) <img img align=
 
 Online CV: [https://aiengine.github.io/ali/](https://aiengine.github.io/ali/) , Contact: [alidanish@outlook.de](mailto:alidanish@outlook.de)
 City: 80995 Munich, Germany.
-Capstone Projects: Sensor fusion [https://github.com/AIENGINE/SFND](https://github.com/AIENGINE/SFND),
-Computer Vision [https://github.com/AIENGINE/CVND](https://github.com/AIENGINE/CVND)
+Capstone Projects: 
+Sensor fusion [https://github.com/AIENGINE/SFND](https://github.com/AIENGINE/SFND),
+Computer Vision [https://github.com/AIENGINE/CVND](https://github.com/AIENGINE/CVND),
+
 
 Languages: English (fluent), German (Basic), Hindi/Urdu (Fluent)
 
@@ -14,7 +16,7 @@ Languages: English (fluent), German (Basic), Hindi/Urdu (Fluent)
 | Software Design and Architecture for requirements elicitation and analysis | Certified Professional for Software Architecture (CPSA-F): Handled dependencies issues with right amount of cohesion and de-coupling through abstractions i.e., software design patterns based on TDD and SOLID principles. Developed Software architecture through Domain Driven Designs principles. |
 | --- | --- |
 | Middleware | Developed, refactored applications on ROS middleware using client's (BMW) middleware wrapper. Developed capture and replay tools over Cyclone DDS using middleware provided APIs and QoS mechanisms. Integrated, developed, and troubleshoot client applications on TTTech real-time middleware with interface model using classic and adaptive autosar. |
-| Programming languages | C++11, 14, 17: Developed code using runtime and compile time patterns based on SOLID principles to increase extensibility. Developed SW in C/C++ using TDD. Python: Developed code generators, automated various processes in ETL pipeline using Pandas, and automated various build processes within large code base that has several million SLOC. Pytorch to build Deep Learning models. Scikitlearn and Shapely for data fitting and analysis. Bash: Automated various processes in SIL and HIL CI pipelines in Linux OS environment. |
+| Programming languages | C++11, 14, 17: Developed code using runtime and compile time patterns based on SOLID principles to increase extensibility. Developed SW in C/C++ using TDD. Python: Developed code generators, automated various processes in ETL pipeline using Pandas, and automated various build processes within large code base that has several million SLOC. Developed C/C++ library interface for python application using Cython. Pytorch to build Deep Learning models. Scikitlearn and Shapely for data fitting and analysis. Bash: Automated various processes in SIL and HIL CI pipelines in Linux OS environment. |
 | Concurrency Models | Experienced with the usage of CUDA, C++ concurrency primitives and async models. |
 | OS | Linux: used in projects from developing software on client's autonomous driving platform to SIL pipelines for TIER-1 and OEM. QNX: Troubleshoot and integrated client applications on performance core with TTTech middleware abstractions. |
 | Build Systems | Cmake, Bazel for building static, shared libraries and artifacts. |
