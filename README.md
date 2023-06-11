@@ -28,7 +28,7 @@ Languages: English (fluent), German (Basic), Hindi/Urdu (Fluent)
 
 **Experience and Responsibilities:**
 
-Software Engineer at TTTech Auto Germany GmbH (2018-2023):
+<em>**Software Engineer at TTTech Auto Germany GmbH (2018-2023):**</em>
 
 **In Innovation Dept:**
 
@@ -67,7 +67,7 @@ Software Engineer at TTTech Auto Germany GmbH (2018-2023):
 - Refactored various sensor and component nodes such as GPS/RTK, Camera on client specific middleware wrapper built on ROS using TDD and Acceptance test in accordance with Autosar-C++14 compliance.
 - Due to effective communication and respective domain knowledge, I co-shared the responsibility to represent team in regular meetings with client where I have done negotiations, escalations, and reporting.
 
-Internship and Master-thesis, IAV Braunschweig (2016-2017):
+<em>**Internship and Master-thesis, IAV Braunschweig (2016-2017):**</em>
 
 - Development of Unmanned Aerial System for Managing Swarm in Civilian applications (Thesis-Grade 1.5).
 - Developed a Swarm simulation for UAVs solving a geometrical path problem, using C++11 and Python
@@ -76,13 +76,13 @@ Internship and Master-thesis, IAV Braunschweig (2016-2017):
 - Supported the team to integrate the developed solution in ETAS INCA and INCA-FLOW
 -  Researched and developed a low-latency, secure, VPN based H.246 HD streaming (less than 150ms) and UAV telemetry solution for embedded system using Gstreamer pipeline. The solution was built with Amazon AWS services.
 
-_Student Research Assistant, Chair of Computer Engineering, TU-Chemnitz (2015):_
+<em>**Student Research Assistant, Chair of Computer Engineering, TU-Chemnitz (2015):**</em>
 
 - Developing and testing of Arduino based collision detection/barrier system of Quadcopter to use with MAVLink protocol.
 - Developed an electronic board for solving 360 obstacle ranging system with MAXSonar-EZ0.
 - Profiled the ranging solution.
 
-Student Research Assistant, Chair of Circuit and Systems, TU-Chemnitz (2013-2015):
+<em>**Student Research Assistant, Chair of Circuit and Systems, TU-Chemnitz (2013-2015):**</em>
 
 - Designing and Development of automated Penetration testing and reporting framework for Intelligent Power Distributed Units (iPDU as embedded SBCs).
 -  Developing a framework with Python and Bash for automated pentesting of iPDU i.e., Network parameters from L2 (ARP-Attacks) to Application L7(SNMP, SMTP, HTTP) on Kali linux.
