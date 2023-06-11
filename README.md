@@ -1,13 +1,11 @@
-CV:Muhammad-Ali Danish (Msc. EE Signal and Communication System) <img img align="right" src="./docs/cv_pic_ali_1.jpg"  width="20%" height="20%">
+CV:Muhammad-Ali Danish (Msc. EE Signal and Communication System) <img img align="right" src="./docs/cv_pic_ali_1.jpg"  width="25%" height="20%">
 
 Online CV: [https://aiengine.github.io/ali/](https://aiengine.github.io/ali/) <br> 
 Contact: [alidanish@outlook.de](mailto:alidanish@outlook.de)
 City: Munich, Germany. <br>
 Capstone Projects: <br>
-Sensor fusion [https://github.com/AIENGINE/SFND](https://github.com/AIENGINE/SFND),
-Computer Vision [https://github.com/AIENGINE/CVND](https://github.com/AIENGINE/CVND),
-
-
+Sensor fusion [https://github.com/AIENGINE/SFND](https://github.com/AIENGINE/SFND), <br>
+Computer Vision [https://github.com/AIENGINE/CVND](https://github.com/AIENGINE/CVND),<br>
 Languages: English (fluent), German (Basic), Hindi/Urdu (Fluent)
 
 **Career Profile**: Throughout my 5+ years of professional career and 3 years of a student research assistant, I had the opportunity to develop a unique set of skills that has well-grounded my understanding of software development from prototypical to pre-series development. I have supplemented my software-development skills with sound conceptual and practical knowledge that I obtained from various short courses and degrees, such as Certified Professional for Software Architecture (CPSA-F), Udacity Sensor Fusion, and Udacity Computer Vision. Combining experience in software development, integration in an industry environment, and a solid understanding of mathematical and conceptual foundations, I am offering potential employers the freedom to solve wide range of problems in their software stack.
